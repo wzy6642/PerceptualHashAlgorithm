@@ -1,0 +1,2 @@
+# PerceptualHashAlgorithm
+图片相似性对比的python实现
